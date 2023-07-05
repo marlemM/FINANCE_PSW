@@ -1,0 +1,11 @@
+venv/
+
+# Ignorar arquivo de registro da venv
+*.pyc
+
+# Ignorar outros arquivos gerados pela venv
+*.pyo
+*.pyd
+__pycache__/
+ 
+
